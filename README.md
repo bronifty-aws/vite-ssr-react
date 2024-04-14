@@ -17,7 +17,7 @@ pnpm link --global # globally link the vite package you built
 - in another window 
 ```bash
 pnpm create vite # choose others react ssr
-cd vite-project
+cd react-ssr # cd into your react ssr project
 pnpm link --global vite # link the app project to your global vite
 ```
 - in the newly created project, add the local vite to dev deps
