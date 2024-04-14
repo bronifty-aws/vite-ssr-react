@@ -1,6 +1,8 @@
 # vite-ssr-react
 https://deploy-preview-16089--vite-docs-main.netlify.app/guide/
 
+# Develop a Vite app against the OSS repo's build
+
 # Vite OSS Repo
 
 ```bash
@@ -23,6 +25,6 @@ pnpm link --global vite # link the app project to your global vite
 - in the newly created project, add the local vite to dev deps
 ```json
 "devDependencies": {
-    "vite": "file:/Users/bronifty/codes/oss/vite"
+    "vite": "file:/Users/bronifty/codes/oss/vite/packages/vite"
   }
 ```
