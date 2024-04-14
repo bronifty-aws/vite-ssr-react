@@ -25,6 +25,7 @@
     "@vitejs/plugin-react": "^4.2.1",
     "cross-env": "^7.0.3",
     "typescript": "^5.3.3",
-    "vite": "file:/Users/bronifty/codes/oss/vite"
+    "vite": "file:/Users/bronifty/codes/oss/vite/packages/vite"
   }
 }
+
